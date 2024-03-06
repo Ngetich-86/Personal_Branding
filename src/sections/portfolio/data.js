@@ -10,6 +10,7 @@ const data = [
       image: IMG1,
       title: "Scholarship management system",
       github: "https://github.com/Ngetich-86/",
+      text: "This is a scholarship management system that allows students to apply for scholarships and the admin to manage the applications and award the scholarships. The system is built using laravel and vue js.",
       demo: "https://||||",
     },
     {
@@ -17,6 +18,7 @@ const data = [
       image: IMG1,
       title: "React portfolio",
       github: "https://github.com/Ngetich-86/react-portfolio",
+      text: "This is a scholarship management system that allows students to apply for scholarships and the admin to manage the applications and award the scholarships. The system is built using laravel and vue js.",
       demo: "https://||||||",
     },
     {
@@ -24,6 +26,7 @@ const data = [
       image: IMG1,
       title: "Maduka Mall",
       github: "https://github.com/Ngetich-86/",
+      text: "This is a scholarship management system that allows students to apply for scholarships and the admin to manage the applications and award the scholarships. The system is built using laravel and vue js.",  
       demo: "https://dribbble.com/shots/17290917-Eclipse-Figma-dashboard-UI-kit-for-data-design-web-apps",
     }
     // {

@@ -1,44 +1,51 @@
+import image1 from "../../assets/MSAzure.webp";
+import image2 from "../../assets/GitHub.webp";
+import image3 from "../../assets/Expressjs.webp";
+import image4 from "../../assets/AzureDevOps.webp";
+import image5 from "../../assets/powerautomate.webp";
+import image6 from "../../assets/mssql.webp";
+import image7 from "../../assets/reacticon.png";
 
 const data = [
     {
         id: 1,
-        icon: "🎀",
+        icon: image1,
         
     },
     {
         id: 2,
-        icon: "🎆"
+        icon: image2
     },
     {
         id: 3,
-        icon: "😎"
+        icon: image3
     },
     {
         id: 1,
-        icon: "🎀",
+        icon: image4
         
     },
     {
         id: 2,
-        icon: "🎆"
+        icon: image5
     },
     {
         id: 3,
-        icon: "😎"
+        icon: image6
     },
     {
         id: 1,
-        icon: "🎀",
+        icon: image7,
         
     },
-    {
-        id: 2,
-        icon: "🎆"
-    },
-    {
-        id: 3,
-        icon: "😎"
-    }
+    // {
+    //     id: 2,
+    //     icon: "🎆"
+    // },
+    // {
+    //     id: 3,
+    //     icon: "😎"
+    // }
 ]
 
  

@@ -5,8 +5,19 @@
 .lang__container{
     /* background-color: aquamarine; */
     display: flex;
+    flex-wrap: wrap;
     align-items: center;
     justify-content: center;
     gap: 2rem;
-    height: 30vh;
+    height: auto;
+    margin: 2rem;
+
+}
+.iconshape{
+    width: 100px;
+    height:100px;
+    border-radius: 90%;
+    border: 1px solid rgb(85, 86, 85);
+    /* background-color: rgb(64, 62, 62); */
+    
 }

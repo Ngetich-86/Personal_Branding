@@ -3,6 +3,7 @@ import './App.css'
 import Footer from './components/Footer/Footer'
 import NavBar from './components/Navbar/NavBar'
 import AboutMe from './sections/About/AboutMe'
+import Badges from './sections/Badges/Badges'
 import Contacts from './sections/Contacts/Contacts'
 import Education from './sections/Education/Education'
 import Experience from './sections/Experience/Experience'
@@ -22,10 +23,11 @@ function App() {
       <AboutMe/>
       <Education/>
       <Portfolio/>
+      <Project/>
       <Experience/>
       <Languages/>
       <Referees/>
-      <Project/>
+      <Badges/>
       <Contacts/>
       <Footer/>
 

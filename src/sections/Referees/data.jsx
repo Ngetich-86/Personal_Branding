@@ -1,10 +1,12 @@
-
+import image1 from "../../assets/kamotho.jpg";
+import image2 from "../../assets/gatheru.jpg";
+import image3 from "../../assets/kemboi.jpg";
 const data = [
     {
         id: 1,
-        icon: "😎",
+        icon: image1,
         name: "Samuel Kamotho",
-        company: " Software Engineer @The Jitu",
+        company: " Software Engineer @Griffin Global Technologies",
         icon1: "📧",
         email: "mailto:gndegeh@gmail.com",
         icon2: "📞",
@@ -13,9 +15,9 @@ const data = [
     },
     {
         id: 2,
-        icon: "😎",
+        icon: image2,
         name: "Samuel Wachira",
-        company: "  Developer @Griffins Tech S",
+        company: "Software Developer @Griffin Global Technologies",
         icon1: "📧",
         email: "mailto:gndegeh@gmail.com",
         icon2: "📞",
@@ -23,9 +25,9 @@ const data = [
     },
     {
         id: 3,
-        icon: "😎",
+        icon: image3,
         name: "Brian Kemboi",
-        company: "Developer @Tech- Mahindra",
+        company: "Gold 🥇 Microsoft Learn Student Ambassador",
         icon1: "📧",
         email: "mailto:gndegeh@gmail.com",
         icon2: "📞",

@@ -9,8 +9,8 @@ const Languages = () => {
       {
         data.map(item => (
           <div key={item.id} className=''>
-            <div className="">{item.icon}
-            <h4>{item.title}</h4>
+            <div className="iconshape">
+              <img src= {item.icon} alt=""  />
             </div>
           </div>
         ))

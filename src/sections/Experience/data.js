@@ -1,4 +1,4 @@
-// import image4 from '../../assets/mlsalogo.png'
+import image4 from '../../assets/csklogo.jpg'
 import image1 from '../../assets/crowdsourcelogo.png'
 import image2 from '../../assets/Thejitulogo.jpg'
 import image3 from '../../assets/gdsclogo.png'
@@ -24,7 +24,7 @@ const data = [
     },
     {
         id: 4,
-        icon: "🚩",
+        icon: image4,
         title: "Event Organizer at Computer Society of Kirinyaga",
         description: "I graduated from Los Angeles High School with a 3.5 GPA. I was able to take a lot of AP classes and learn a lot about computer science."
     },
