@@ -1,0 +1,12 @@
+#languages{
+    text-align: center;
+}
+
+.lang__container{
+    /* background-color: aquamarine; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 2rem;
+    height: 30vh;
+}
