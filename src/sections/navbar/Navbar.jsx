@@ -1,6 +1,6 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import './navbar.css'
-import Logo from '../../assets/logo.jpg'
+import Logo from '../../assets/linkedinprof.jpg'
 import data from './data'
 import { FaBars } from 'react-icons/fa';
 
@@ -10,7 +10,7 @@ const Navbar = () => {
   return (
     <nav>
       <div className="container nav__container">
-        <a href="index.html" className='nav__logo'>
+        <a href="#" className='nav__logo'>
           <img src={Logo} alt="Logo" />
         </a>
         <ul className={`nav__menu ${isOpen ? 'show' : ''}`}>

@@ -1,6 +1,6 @@
 // import React from 'react'
 // import data from './data.js';
-import dataSocials from "./data.js";
+// import dataSocials from "./data.js";
 import HeaderImage from '../../assets/profile.jpg'
 import './header.css'
 
@@ -24,14 +24,14 @@ const Header = () => {
           <a href="#portfolio" className='btn light'>My work</a>
         </div>
 
-        <div className="header__socials">
+        {/* <div className="header__socials">
           {
            dataSocials.map(item => <a key={item.id} href={item.link} 
            target='_blank' rel='noopener noreferrer'>
             {item.icon} 
             </a>) 
           }
-        </div>
+        </div> */}
       </div>
     </header>
   )
