@@ -28,7 +28,7 @@ const Header = () => {
           {
            dataSocials.map(item => <a key={item.id} href={item.link} 
            target='_blank' rel='noopener noreferrer'>
-            {item.icon} yoooh
+            {item.icon} 
             </a>) 
           }
         </div>
