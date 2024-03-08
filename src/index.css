@@ -11,9 +11,9 @@
 :root{
   --primary-hue: 270;
   --back-lightness: 15%;
-  --dark-lightness: 64%;
-  --light-lightness: 44%;
-  --white-lightness: 90%;
+  --dark-lightness: 74%;
+  --light-lightness: 74%;
+  --white-lightness: 70%;
   --color-primary: hsl(var(--primary-hue), 8%,11%);
   --color-white: hsl(0,5%,var(--white-lightness));
   --color-light: hsl(var(--primary-hue), 5%, var(--light-lightness));

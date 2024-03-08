@@ -8,7 +8,7 @@ const data = [
     {
         // id: 1, icon: <RiReactjsLine />,
         title: 'Fronted Development',
-        // desc: 'I can create modern and dynamic frontend web applications using HTML, CSS, JavaScript, and ReactJS. My skills allow me to design and develop visually appealing, responsive, and interactive web pages, ranging from simple websites to complex applications. I have experience collaborating with backend developers to create full-stack web applications and can provide value to businesses relying on the web for their operations and growth.'
+        desc: 'I specialize in frontend web development using React.js, a JavaScript library, to create dynamic and interactive user interfaces for modern web applications.'
     },
     {
         id: 2,
