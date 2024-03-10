@@ -10,13 +10,13 @@
 
 :root{
   --primary-hue: 270;
-  --back-lightness: 15%;
-  --dark-lightness: 74%;
-  --light-lightness: 74%;
+  --back-lightness: 9%;
+  --dark-lightness: 54%;
+  --light-lightness: 94%;
   --white-lightness: 70%;
   --color-primary: hsl(var(--primary-hue), 8%,11%);
   --color-white: hsl(0,5%,var(--white-lightness));
-  --color-light: hsl(var(--primary-hue), 5%, var(--light-lightness));
+  --color-light: hsl(var(--primary-hue), 15%, var(--light-lightness));
   --color-black: hsl(var(--primary-hue), 5%, var(--back-lightness));
   --color-dark: hsl(var(--primary-hue), 5%, var(--dark-lightness));
   /* General container variables */
@@ -38,6 +38,7 @@ body{
  font-family: 'Montserrat', sans-serif;
  line-height: 1.6;
  font-size: 0.9rem;
+ text-align:left;
 }
 
  /* General container class */

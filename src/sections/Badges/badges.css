@@ -19,12 +19,18 @@
     width: 150px;
     height: 150px;
     object-fit: cover;
-    margin-left: 60px;
+    margin-left: 69px;
+    margin-top: 10px;
     /* border: 3px solid rgb(9, 226, 118); */
 
 }
 /* media queries */
-@media screen {
-    
-    
+@media screen  and (max-width: 624px) {
+    .badge_img {
+        
+        margin-left: 100px;
+       
+    }
 }
+    
+    

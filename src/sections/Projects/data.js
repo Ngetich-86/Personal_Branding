@@ -14,13 +14,13 @@ const data = [
         id: 2,
         // icon: <FaDatabase />,
         title: 'Cloud Solutions- Microsoft Azure', 
-        // desc: 'I have the ability to administer and manage databases using MySQL and MongoDB.  '
+        desc: 'I excel in Azure Cloud, demonstrating expertise in resource management, virtualization, and deployment. Proficient in Azure VMs, Storage, Networking, and Identity solutions, I optimize performance for seamless operations within the Azure environment.'
     },
     {
         id: 3,
         // icon: <FaServer />,
         title: 'Backend Development',
-        // desc: 'I have the ability to develop server-side applications using Node.js and Express.js. With this skill set, I can create and deploy '
+        desc: 'Proficient in Node.js, Express.js, and MSSQL, I excel in backend web development. Expert in API interactions, I deliver efficient and scalable solutions with seamless integration. '
     },
     {
         id: 4,
