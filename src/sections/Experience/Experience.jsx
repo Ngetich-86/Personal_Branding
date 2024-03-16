@@ -10,7 +10,7 @@ const Experience = () => {
       {
         data.map(item => (
           <Cards key={item.id} className='service light'>
-            <div className="service__icon" style={{background:"none"}}>
+            <div className="service__icon" style={{background:"white",border:"2px solid grey"}}>
               {/* {item.icon} */}
               <img src={item.icon} alt="" />
               </div>

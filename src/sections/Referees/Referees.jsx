@@ -11,7 +11,7 @@ const Referees = () => {
       {
         data.map(item => (
           <Cards key={item.id} className='service light'>
-            <div className="service__icon" style={{width:"100px", height:"100px", background:"none"}}>
+            <div className="service__icon" style={{width:"100px", height:"100px", background:"none" }}>
               <img src={item.icon} alt="" />
               </div>
             <div className="service__details">

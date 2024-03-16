@@ -38,7 +38,7 @@ const AboutMe = () => {
             {
               data.map(item => (
                 <Cards key={item.id} className='about__card'>
-                  <span className='about__card-icon'> {item.icon}</span>
+                  {/* <span className='about__card-icon'> {item.icon}</span> */}
                   <h5>{item.title}</h5>
                   <small>{item.desc}</small>
                 </Cards>

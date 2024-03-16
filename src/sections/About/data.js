@@ -1,5 +1,6 @@
 
 // import { FaAward } from 'react-icons/fa'
+// import { FaAward } from "react-icons/fa6";
 // import {TbBooks } from 'react-icons/tb'
 // import {BiHappyHeartEyes } from 'react-icons/bi'
 import './about.css'

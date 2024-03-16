@@ -26,7 +26,7 @@ const data = [
         id: 4,
         // icon: <SiAdobexd />,
         title: 'UI/UX Design',
-        // desc: 'I have a strong skillset in UI/UX design, with expertise in user research, wireframing and prototyping and information architecture '
+        desc: 'I have a strong skillset in UI/UX design, with expertise in user research, wireframing and prototyping and information architecture '
     }
 ]
 
